@@ -1,0 +1,16 @@
+D:\CureMD bootcamp\C sharp\Day2 work\Project\Project\bin\Debug\Project.exe.config
+D:\CureMD bootcamp\C sharp\Day2 work\Project\Project\bin\Debug\Project.exe
+D:\CureMD bootcamp\C sharp\Day2 work\Project\Project\bin\Debug\Project.pdb
+D:\CureMD bootcamp\C sharp\Day2 work\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\CureMD bootcamp\C sharp\Day2 work\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\CureMD bootcamp\C sharp\Day2 work\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\CureMD bootcamp\C sharp\Day2 work\Project\Project\obj\Debug\Project.exe
+D:\CureMD bootcamp\C sharp\Day2 work\Project\Project\obj\Debug\Project.pdb
+D:\CureMD bootcamp\C sharp\Car Parking Calculator\Project\bin\Debug\Project.exe.config
+D:\CureMD bootcamp\C sharp\Car Parking Calculator\Project\bin\Debug\Project.exe
+D:\CureMD bootcamp\C sharp\Car Parking Calculator\Project\bin\Debug\Project.pdb
+D:\CureMD bootcamp\C sharp\Car Parking Calculator\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\CureMD bootcamp\C sharp\Car Parking Calculator\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\CureMD bootcamp\C sharp\Car Parking Calculator\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\CureMD bootcamp\C sharp\Car Parking Calculator\Project\obj\Debug\Project.exe
+D:\CureMD bootcamp\C sharp\Car Parking Calculator\Project\obj\Debug\Project.pdb
